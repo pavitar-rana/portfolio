@@ -1,4 +1,4 @@
-import { drlife, oscs, abarta } from "../assets";
+import { drlife, oscs, abarta, lovable, exness } from "../assets";
 
 export const navLinks = [
   {

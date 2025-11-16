@@ -7,7 +7,4 @@ import Portfolio from "./Portfolio";
 import Position from "./Position";
 import SpacemanCanvas from "./Spaceman";
 
-export {
-    CanvasLoader, Contact, Experience, Hero, Navbar, Portfolio, Position, SpacemanCanvas
-};
-
+export { CanvasLoader, Contact, Experience, Hero, Navbar, Portfolio, Position, SpacemanCanvas };
